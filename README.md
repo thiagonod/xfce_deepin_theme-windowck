@@ -9,7 +9,7 @@ https://www.opendesktop.org/p/1190867/
 
 ## Installation
 
-After download de files, use **./install.sh** to install, and to remove use **./remove.sh**.<p>
+After download the files, use **./install.sh** to install, and to remove use **./remove.sh**<p>
 if the scripts do not work, use chmod a+x intall.sh and try ./install.sh agian.
 
 
